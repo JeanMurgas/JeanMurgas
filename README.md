@@ -85,6 +85,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanMurgas&theme=tokyonight&hide_border=true" />
+</div>
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
